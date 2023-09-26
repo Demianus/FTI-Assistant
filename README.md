@@ -29,4 +29,4 @@ providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 # Flowchart Chatbot FTI UKSW
-![Teks Alternatif](https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)
+![Teks Alternatif](FTI Assistant.png)
