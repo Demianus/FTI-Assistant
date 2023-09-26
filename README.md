@@ -29,4 +29,4 @@ providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 # SWCU FTI Chatbot Flow Diagram
-![Gambar Contoh]([https://example.com/gambar.jpg](https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)
+![Gambar]([https://example.com/gambar.jpg](https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)
