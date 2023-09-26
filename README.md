@@ -27,6 +27,3 @@ in their academic journey.
 The overall goal of this project is to increase internal efficiency
 providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
-
-# SWCU FTI Chatbot Flow Diagram
-![Gambar](https://online.visual-paradigm.com/community/share/fti-assistant-1i45j3v646)
