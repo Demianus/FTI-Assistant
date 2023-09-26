@@ -30,3 +30,10 @@ introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 # Flowchart Chatbot FTI UKSW
 ![Teks Alternatif](https://github.com/Demianus/FTI-Assistant/blob/14e059070b72387c464d714f650673f9b5f5ee26/FTI%20Assistant.jpg)
+
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Baris 1, Kolom 1 | Baris 1, Kolom 2 | Baris 1, Kolom 3 |
+| Baris 2, Kolom 1 | Baris 2, Kolom 2 | Baris 2, Kolom 3 |
+| Baris 3, Kolom 1 | Baris 3, Kolom 2 | Baris 3, Kolom 3 |
