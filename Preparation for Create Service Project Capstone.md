@@ -7,7 +7,7 @@ Before you can use the Watsonx service, several services must be created first F
      credentials
   2. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
      the service catalog
-     [Picture](https://github.com/Demianus/Source-Fti/blob/7c152d0d2e2caf76f479c2c674e1442a98d05e9f/Watson%20Machine%20Learning.png)
+     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7c152d0d2e2caf76f479c2c674e1442a98d05e9f/Watson%20Machine%20Learning.png)
   4. Choose the location in Dallas (US-South), make sure the pricing is free, then confirm by checking the license
      agreements and click create
 
