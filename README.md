@@ -34,7 +34,7 @@ introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 # List Of Contents
 | Name | Contents |
 | -------- | -------- |
-| Preparation for Create Service Project Capstone | ![Preparation for Create Service Project Capstone]() |
+| Preparation for Create Service Project Capstone | ![Preparation for Create Service Project Capstone](https://github.com/Demianus/FTI-Assistant/blob/ae484a6c68f87267120260a3b09325e50bc61167/Preparation%20for%20Create%20Service%20Project%20Capstone) |
 | Creating an FTI Assistant Chatbot in Watson Assistant | Baris 2, Kolom 2 |
 | Creating an FTI Assistant Chatbot Lab Prompt in Watsonx | Baris 3, Kolom 2 |
 | Capstone Project Results | Baris 4, Kolom 2 |
