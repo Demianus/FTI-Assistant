@@ -3,9 +3,9 @@ In this report, I will detail the steps I have taken during the work on this Cap
 # Preparation for Create Service
 Before you can use the Watsonx service, several services must be created first First, here are the steps.
 # Create Watson Machine learning
-  1. Open a web browser and go to the IBM Cloud website. Log in to your account Your IBM Cloud uses the appropriate   
-     credentials
-  2. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
+  1. Open a web browser and go to the [IBM Cloud website](https://cloud.ibm.com/login). Log in to your account Your
+     IBM Cloud uses the appropriate credentials
+  3. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
      the service catalog
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7c152d0d2e2caf76f479c2c674e1442a98d05e9f/Watson%20Machine%20Learning.png)
   4. Choose the location in Dallas (US-South), make sure the pricing is free, then confirm by checking the license
