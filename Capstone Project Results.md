@@ -9,15 +9,15 @@ However, the FTI website will be a reference for recommendations to the Faculty 
 
 # Results from the FTI Assistant Chatbot
 Based on the test results, I can conclude several important points:
-• Ease of Use: When accessing the FTI Assistant Chatbot to search for information Regarding FTI, there are conveniences to be had. This shows that this chatbot meet user needs well.
-• Fast Response: FTI Assistant chatbot provides fast responses to questions users based on information trained on Watsonx Lab Prompts, which helps saves users time in searching for information.
-• Chatbot answer level accuracy is not perfect: This chatbot still has levels imperfect validation of answers in response to user questions still exists some situations where the chatbot fails to understand the question correctly and provide answers that are outside the discussion. However, this error rate is minimal and can be improved through continuous updates.
+1. Ease of Use: When accessing the FTI Assistant Chatbot to search for information Regarding FTI, there are     conveniences to be had. This shows that this chatbot meet user needs well.
+2. Fast Response: FTI Assistant chatbot provides fast responses to questions users based on information trained on Watsonx Lab Prompts, which helps saves users time in searching for information.
+3. Chatbot answer level accuracy is not perfect: This chatbot still has levels imperfect validation of answers in response to user questions still exists some situations where the chatbot fails to understand the question correctly and provide answers that are outside the discussion. However, this error rate is minimal and can be improved through continuous updates.
 
 # Use of the FTI Assistant Chatbot
 In analyzing the use of the FTI Assistant chatbot, I observed that this chatbot was mMPU provide significant benefits to FTI users if developed further. Some of the positive results found were:
-• Improved Access to Information: FTI users or general public have easy access and quickly get to FTI related information without needing to search through different sources.
-• Time Savings: Users can quickly obtain validated information quickly and efficiently.
-• Increasing sources of information recognition: As time goes by, I guess The use of the FTI Assistant chatbot can be a forum or source of introduction information to the public.
+1. Improved Access to Information: FTI users or general public have easy access and quickly get to FTI related information without needing to search through different sources.
+2. Time Savings: Users can quickly obtain validated information quickly and efficiently.
+3. Increasing sources of information recognition: As time goes by, I guess The use of the FTI Assistant chatbot can be a forum or source of introduction information to the public.
 
 # Conclusion
 Based on the final results of the Capstone project in developing the FTI Assistant Chatbot, I can concluded that this chatbot was able to make a positive contribution in increasing access
