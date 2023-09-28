@@ -3,31 +3,38 @@ In this report, I will detail the steps I have taken during the work on this Cap
 # Preparation for Create Service
 Before you can use the Watsonx service, several services must be created first First, here are the steps.
 # Create Watson Machine learning
-  1. Open a web browser and go to the [IBM Cloud website](https://cloud.ibm.com/login). Log in to your account Your
+  1. Open a web browser and go to the [IBM Cloud](https://cloud.ibm.com/login). Log in to your account Your
      IBM Cloud uses the appropriate credentials
-  3. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
+  2. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
      the service catalog
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7c152d0d2e2caf76f479c2c674e1442a98d05e9f/Watson%20Machine%20Learning.png)
-  4. Choose the location in Dallas (US-South), make sure the pricing is free, then confirm by checking the license
+  3. Choose the location in Dallas (US-South), make sure the pricing is free, then confirm by checking the license
      agreements and click create
+     ![Teks Alternatif]()
 
 # Create Watson Studio
   1. Return to the IBM Cloud Dashboard then search for and select a service "Watson Studio" in the service catalog
+     ![Teks Alternatif]()
   2. Choose Dallas (us-south) as the location, make sure the pricing is free, then confirm by checking the license
      agreements and click create
+     ![Teks Alternatif]()
 
 # Create Object Storage
   1. Create like Steps 1 and 2 then select Choose an Infrastructure, which is IBM Cloud, and ensure that the pricing
      is free, confirm by checking the license agreements then click Create
+     ![Teks Alternatif]()
 
 # Create Watson Assistant
   1. Log in again to the main IBM Cloud Dashboard then search for and select the "Watson Assistant" service in the
      service catalog
+     ![Teks Alternatif]()
   2. Location Choose Dallas (us-south), make sure the pricing is free, then confirm by checking the license
      agreements and click create
+     ![Teks Alternatif]()
 
      If the four services above have been created, the next step is to check the service in the navigation menu in
 the top left corner, then click Resource List.
+![Teks Alternatif]()
 
 # Create WatsonX
   1. Go back to the Catalog page, then search for Watsonx and select it then it will take you to a new tab then
