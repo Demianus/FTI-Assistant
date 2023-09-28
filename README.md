@@ -28,7 +28,7 @@ The overall goal of this project is to increase internal efficiency
 providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
-# Flowchart Chatbot FTI UKSW
+## Flowchart Chatbot FTI UKSW
 ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/8d23b44188198b8d3b669d49addf5830d5bffc4d/FTI%20Assistant.jpg)
 
 ## List Of Contents
