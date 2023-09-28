@@ -33,10 +33,13 @@ Before you can use the Watsonx service, several services must be created first F
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Watson%20Assistant%20Loc.png)
 
      If the four services above have been created, the next step is to check the service in the navigation menu in
-the top left corner, then click Resource List.
+the top left corner, then click Resource List
 ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Resource%20List.png)
 
 # Create WatsonX
   1. Go back to the Catalog page, then search for Watsonx and select it then it will take you to a new tab then
      select watson.ai, click Get Started, then just follow all the next steps and for the server select Dallas
      (ussouth). If so, you will be directed to a new page and please log in
+     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/9820468ad47b8c164dee0a6821c3f9f60297ea91/WatsonX.png)
+     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/9820468ad47b8c164dee0a6821c3f9f60297ea91/WatsonX%202.png)
+     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/9820468ad47b8c164dee0a6821c3f9f60297ea91/WatsonX%203.png)
