@@ -19,7 +19,7 @@ available at the Faculty of Information Technology (FTI).
   7. Enter the extension name and description "Optional" then Next
       ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Build%20Custom%20Extension%20des.png)
   8. Download the Json Extensions at the following link: [Json](https://github.com/watsondeveloper-cloud/assistant-toolkit/blob/master/integrations/extensions/starterkits/language-model-watsonx/watsonx-openapi.json)
-     [Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Json.png)
+     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Json.png)
   10. Enter the downloaded json file then click Next, and Finish
       ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Json%20File.png)
   11. After creating Extensions, the next step is to "Add" the Watson Extensions. Click Confirm, Next 2 times, and
