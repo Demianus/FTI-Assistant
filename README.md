@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/chatbot.jpg"  width=375 height="175">
+  <img src="https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/chatbot.jpg"  width=375 height="275">
 </p>
 <br>
 
