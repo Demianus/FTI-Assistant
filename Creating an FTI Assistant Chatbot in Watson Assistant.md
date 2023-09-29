@@ -2,7 +2,7 @@ Next are the steps in the process of creating an FTI Assistant Chatbot using the
 chatbotis designed to provide an interactive and efficient solution for users in accessing information and services 
 available at the Faculty of Information Technology (FTI).
 
-# Watson Assistant
+## Watson Assistant
   1. Select Watson Assistant on the resource list menu, then Launch Watson Assistant
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Watson%20Assistant.png)
   2. Next, input the Assistant Name "FTI Assistant", for Description "Optional", and for Language select "English
