@@ -2,7 +2,7 @@ In this report, I will detail the steps I have taken during the work on this Cap
 
 # Preparation for Create Service
 Before you can use the Watsonx service, several services must be created first First, here are the steps.
-# Create Watson Machine learning
+## Create Watson Machine learning
   1. Open a web browser and go to the [IBM Cloud](https://cloud.ibm.com/login). Log in to your account Your
      IBM Cloud uses the appropriate credentials
   2. After logging in, open the IBM Cloud Dashboard then search and select it "Watson Machine Learning" service in
@@ -12,19 +12,19 @@ Before you can use the Watsonx service, several services must be created first F
      agreements and click create
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Location.png)
 
-# Create Watson Studio
+## Create Watson Studio
   1. Return to the IBM Cloud Dashboard then search for and select a service "Watson Studio" in the service catalog
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Watson%20Studio.png)
   2. Choose Dallas (us-south) as the location, make sure the pricing is free, then confirm by checking the license
      agreements and click create
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Watson%20Studio%20Loc.png)
 
-# Create Object Storage
+## Create Object Storage
   1. Create like Steps 1 and 2 then select Choose an Infrastructure, which is IBM Cloud, and ensure that the pricing
      is free, confirm by checking the license agreements then click Create
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Object%20Storage.png)
 
-# Create Watson Assistant
+## Create Watson Assistant
   1. Log in again to the main IBM Cloud Dashboard then search for and select the "Watson Assistant" service in the
      service catalog
      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Watson%20Assistant.png)
@@ -36,7 +36,7 @@ Before you can use the Watsonx service, several services must be created first F
 the top left corner, then click Resource List
 ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Resource%20List.png)
 
-# Create WatsonX
+## Create WatsonX
   1. Go back to the Catalog page, then search for Watsonx and select it then it will take you to a new tab then
      select watson.ai, click Get Started, then just follow all the next steps and for the server select Dallas
      (ussouth). If so, you will be directed to a new page and please log in
