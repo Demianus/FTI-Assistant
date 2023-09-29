@@ -1,12 +1,6 @@
 # Watsonx : Chatbot FTI Assistant for Improving Student Information Access in UKSW FTI Academic Environment
 FTI Assistant is a simple chatbot for UKSW FTI academic information. Created for students &amp; general public, this chatbot provides general information with a user-friendly interface and easy access and interaction.
 
-<br>
-<p align="center">
-  <img src="GIFs/Assistant.gif"  width=400 height="800">
-</p>
-<br>
-
 ## Problem
 Project "FTI Assistant Chatbot to Improve Student Information Access in The UKSW FTI Academic Environment "started from the problem of information accessibility
 academics for students at the University's Faculty of Information Technology (FTI). Satya Wacana Christian (UKSW). In the digital era and technological developments
