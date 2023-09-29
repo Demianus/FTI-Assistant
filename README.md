@@ -36,7 +36,11 @@ providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 ## Flowchart Chatbot FTI UKSW
-![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/8d23b44188198b8d3b669d49addf5830d5bffc4d/FTI%20Assistant.jpg)
+<br>
+<p align="center">
+  <img src="https://github.com/Demianus/Source-Fti/blob/8d23b44188198b8d3b669d49addf5830d5bffc4d/FTI%20Assistant.jpg"  width=375 height="275">
+</p>
+<br>
 
 ## List Of Contents
 | Name | Contents |
