@@ -19,20 +19,15 @@ The proposed solution is to develop a chatbot named “FTI Assistant.” This ch
 
 ## Objective
 1. Increase the accessibility of academic information for students, ensuring that
-they can easily access the information they need without
-obstacle.
+they can easily access the information they need without obstacle.
 2. Reduce the workload of lecturers and administrative staff by enabling chatbots
-handle routine, same, or repeated questions from students, so that they
-can focus on more strategic tasks.
-3. Implement artificial intelligence (AI) and language processing technology3
-natural (NLP) to develop responsive and efficient chatbots in
-respond to user questions.
-4. Improve the student experience by providing fast and easy access
-to the information they need, so they feel supported and helped
+handle routine, same, or repeated questions from students, so that they can focus on more strategic tasks.
+3. Implement artificial intelligence (AI) and language processing technology
+natural (NLP) to develop responsive and efficient chatbots in respond to user questions.
+4. Improve the student experience by providing fast and easy access to the information they need, so they feel supported and helped
 in their academic journey.
 
-The overall goal of this project is to increase internal efficiency
-providing information about UKSW FTI, improving the student experience, and
+The overall goal of this project is to increase internal efficiency providing information about UKSW FTI, improving the student experience, and
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 ## Flowchart Chatbot FTI UKSW
