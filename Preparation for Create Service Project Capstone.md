@@ -36,7 +36,7 @@ Before you can use the Watsonx service, several services must be created first F
 the top left corner, then click `Resource List`
 ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Resource%20List.png)
 
-## Create WatsonX
+## Create Watsonx
   1. Go back to the Catalog page, then search for Watsonx and select it then it will take you to a new tab then
      select `watson.ai`, click `Get Started`, then just follow all the next steps and for the server select `Dallas
      (us-south)`. If so, you will be directed to a new page and please `log in`
