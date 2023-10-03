@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/chatbot.jpg"  width=375 height="275">
+  <img src="https://github.com/Demianus/Source-Fti/blob/909630efbe9fb7accbdec33d5a07246fda7f26e5/Project%20Capstone%20Chatbot%20FTI%20Assistant%20Watsonx%20%26%20Watson%20Assistant.png"  width=1920 height="1080">
 </p>
 <br>
 
