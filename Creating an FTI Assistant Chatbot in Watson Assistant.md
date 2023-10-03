@@ -7,9 +7,9 @@ services available at the Faculty of Information Technology (FTI).
     Assistant Name as `FTI Assistant`, while for the Description it was `Optional`, and for Language select `English
     (US)`.
   * The following is a display of the project in Watson Assistant that was successfully created.
-    ![Teks Alternatif](https)
+    ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/View%20Watson%20Assistant.png)
   * Next, how I did the Watson Assistant integration.
-    ![Teks Alternatif](https)
+    ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/Watson%20Assistant%20Integrations.png)
   * Download the Json Extensions at the following link: [Json](https://github.com/watsondeveloper-cloud/assistant-toolkit/blob/master/integrations/extensions/starterkits/language-model-watsonx/watsonx-openapi.json) or Copy this link!
 ```bash
 https://github.com/watsondeveloper-cloud/assistant-toolkit/blob/master/integrations/extensions/starterkits/language-model-watsonx/watsonx-openapi.json
