@@ -24,4 +24,3 @@ Before I can use Watson services, there are several services I have to create fi
 
 ## Create Watsonx
   * Then I went back to the Catalog page, and created Watsonx and set the server location to `Dallas (us-south)`.
-     ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/9820468ad47b8c164dee0a6821c3f9f60297ea91/WatsonX%203.png)
