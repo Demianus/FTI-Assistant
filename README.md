@@ -1,4 +1,4 @@
-# Watsonx : Chatbot FTI Assistant for Improving Student Information Access in UKSW FTI Academic Environment
+# 📚 Watsonx: FTI Assistant Chatbot for Improving Student Information Access in UKSW FTI Academic Environment
 
 <br>
 <p align="center">
