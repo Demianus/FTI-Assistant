@@ -31,11 +31,13 @@ The overall goal of this project is to increase internal efficiency providing in
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 ## Included Components
-* [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
-* [IBM Watsonx](https://www.ibm.com/watsonx): Easily train, validate, fine-tune, and deploy basic and machine learning models..
+* [IBM Watson Assistant](https://www.ibm.com/watsonx): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
+* [IBM Watsonx](https://www.ibm.com/watsonx): Easily train, validate, fine-tune, and deploy basic and machine learning models.
 
 ## Flowchart Chatbot FTI UKSW
-![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/8d23b44188198b8d3b669d49addf5830d5bffc4d/FTI%20Assistant.jpg)
+![Diagram alur proses Chatbot FTI UKSW](asset/img/FTI-Assistant.jpg)
+*Diagram alur proses Chatbot FTI UKSW.*
+
 
 ## List Of Contents
 | Name | Contents |
