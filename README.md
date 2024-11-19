@@ -43,8 +43,11 @@ introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 * [IBM Watsonx](https://www.ibm.com/watsonx): Easily train, validate, fine-tune, and deploy basic and machine learning models.
 
 ## 🔄 Project Flowchart Chatbot FTI UKSW
-![Diagram alur proses Chatbot FTI UKSW](assets/img/FTI-Assistant.jpg)
-*Diagram alur proses Chatbot FTI UKSW.*
+<div align="center">
+  <img src="assets/img/FTI-Assistant.jpg" alt="Diagram alur proses Chatbot FTI UKSW" style="max-width: 100%; height: auto;">
+  <p><em>Diagram alur proses Chatbot FTI UKSW.</em></p>
+</div>
+
 
 ## 📁 Table of Contents
 | Name | Contents |
