@@ -20,7 +20,7 @@ Before I can use Watson services, there are several services I have to create fi
     (us-south)` again.
 
      The following displays the `Resource List` which explains the status of the services that have been created.
-![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/07e924d168c76e4b87b8790daabe830dd126b1e5/Resource%20List.png)
+![Teks Alternatif](assets/img/Resource-List.png)
 
 ## Create Watsonx
   * Then I went back to the Catalog page, and created Watsonx and set the server location to `Dallas (us-south)`.
