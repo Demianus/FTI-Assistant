@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="assets/1 Project Capstone Chatbot FTI Assistant Watsonx & Watson Assistant.png"  width=800 height="450">
+  <img src="assets/img/1-Project-Capstone-Chatbot-FTI-Assistant-Watsonx-&-Watson-Assistant.png"  width=800 height="450">
 </p>
 <br>
 
@@ -39,8 +39,8 @@ The overall goal of this project is to increase internal efficiency providing in
 introducing artificial intelligence (AI) technology to the UKSW FTI environment.
 
 ## Included Components
-* [IBM Watson Assistant]<img src='assets/FTI Assistant'>: Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
-* [IBM Watsonx](https://www.ibm.com/watsonx): Easily train, validate, fine-tune, and deploy basic and machine learning models..
+* [IBM Watson Assistant](https://www.ibm.com/watsonx): Build, test and deploy a bot or virtual agent across mobile devices, messaging platforms, or even on a physical robot.
+* [IBM Watsonx](https://www.ibm.com/watsonx): Easily train, validate, fine-tune, and deploy basic and machine learning models.
 
 ## 🔄 Project Flowchart Chatbot FTI UKSW
 ![Diagram alur proses Chatbot FTI UKSW](assets/img/FTI-Assistant.jpg)
