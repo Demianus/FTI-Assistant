@@ -7,16 +7,16 @@ services available at the Faculty of Information Technology (FTI).
     Assistant Name as `FTI Assistant`, while for the Description it was `Optional`, and for Language select `English
     (US)`.
   * The following is a display of the project in Watson Assistant that was successfully created.
-    ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/View%20Watson%20Assistant.png)
+    ![Teks Alternatif](assets/img/View-Watson-Assistant.png)
   * Next, how I did the Watson Assistant integration.
-    ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/7dff915e8f1c18332808112d0a3e7883a2d7d650/Watson%20Assistant%20Integrations.png)
+    ![Teks Alternatif](assets/img/Watson-Assistant-Integrations.png)
   * Download the Json Extensions at the following link: [Json](https://github.com/watsondeveloper-cloud/assistant-toolkit/blob/master/integrations/extensions/starterkits/language-model-watsonx/watsonx-openapi.json) or Copy this link!
 
 ```bash
 https://github.com/watsondeveloper-cloud/assistant-toolkit/blob/master/integrations/extensions/starterkits/language-model-watsonx/watsonx-openapi.json
 ```
   
-  ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Json.png)
+  ![Teks Alternatif](assets/img/Json.png)
   * Here I insert the json file that has been downloaded for integration.
-      ![Teks Alternatif](https://github.com/Demianus/Source-Fti/blob/ffe8157107baba3e410b3b5f389cd257a8e32146/Json%20File.png)
+      ![Teks Alternatif](assets/img/Json-File.png)
   * After creating the `Extension`, my next step was to `Add` the Watson Extension. and do `Confirm`.
